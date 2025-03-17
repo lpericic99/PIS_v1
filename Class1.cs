@@ -8,5 +8,6 @@ namespace PIS_v1
 {
     internal class Class1
     {
+        float f = 0.4f;
     }
 }
